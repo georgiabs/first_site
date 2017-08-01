@@ -1,0 +1,37 @@
+.nav a{
+    display: inline-block;
+    padding-right: 10px;
+    color: white;
+    background-color: red;
+}
+#about_blue {
+  color: black;
+  background-color: #6495ED;
+  border: 3px solid #000;
+}
+
+.blue_box {
+color: blue;
+}
+
+#about_yellow {
+  color: black;
+  background-color: #FFEBCD; {
+    color: black;
+    border: 3px solid #000;
+  }
+
+;
+  border: 3px solid #000;
+}
+
+.yellow_box {
+color: orange;
+}
+
+
+
+}
+#explanation {
+  colour: blue;
+}
